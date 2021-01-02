@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Antlr",
+	"Description": "Antlr runtime library",
+	"Category": "Other",
+	"CreatedBy": "fcdnws",
+	"CreatedByURL": "https://github.com/fcdnws/UnrealEngineAntlr",
+	"DocsURL": "https://github.com/fcdnws/UnrealEngineAntlr",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/fcdnws/UnrealEngineAntlr",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Antlr",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
